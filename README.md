@@ -1,21 +1,21 @@
 # Hi, I'm Tanmay 👋
 
-🎓 Computer Science student focused on **AI & Machine Learning**  
-🧠 I enjoy turning data into decisions and ideas into working systems  
-⚙️ Always building, always learning
+ Computer Science student focused on **AI & Machine Learning**  
+ I enjoy turning data into decisions and ideas into working systems  
+ Always building, always learning
 
 ---
 
-## 🚀 What I'm Doing
+##  What I'm Doing
 
-- 📚 Exploring Machine Learning, Deep Learning, and Data Science  
-- 🧪 Building projects that mix **code + logic + real-world impact**  
-- 🧩 Solving problems on algorithms and system design  
-- 🌱 Continuously improving my development and research skills  
+-  Exploring Machine Learning, Deep Learning, and Data Science  
+-  Building projects that mix **code + logic + real-world impact**  
+-  Solving problems on algorithms and system design  
+-  Continuously improving my development and research skills  
 
 ---
 
-## 🛠️ Tech Toolbox
+##  Tech Toolbox
 
 **Languages**  
 `Python` • `C++` • `SQL`
@@ -31,18 +31,18 @@ Machine Learning • Data Analysis • Model Building • Optimization • Probl
 
 ---
 
-## 📌 What You'll Find Here
+##  What You'll Find Here
 
 🔹 Machine Learning projects  
 🔹 Data analysis notebooks  
 🔹 Algorithm practice  
 🔹 Experiments, ideas, and things I'm learning  
 
-This profile is basically my **public lab notebook** 🧪
+This profile is basically my **public lab notebook** 
 
 ---
 
-## 📈 Goals
+##  Goals
 
 - Build impactful AI projects  
 - Contribute to meaningful open-source work  
@@ -51,7 +51,7 @@ This profile is basically my **public lab notebook** 🧪
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 📧 Email: **tanmaydwivedi28@gmail.com**  
 💼 LinkedIn: **www.linkedin.com/in/tanmaydw**
